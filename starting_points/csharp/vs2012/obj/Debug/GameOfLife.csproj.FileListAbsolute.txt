@@ -1,0 +1,16 @@
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Tests.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Tests.pdb
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\obj\Debug\GameOfLife.csproj.CopyComplete
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\obj\Debug\Tests.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\obj\Debug\Tests.pdb
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Castle.Core.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Moq.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Castle.Core.xml
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\Moq.xml
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VCNETPrj\Katas\coderetreat\starting_points\csharp\vs2012\bin\Debug\System.Threading.Tasks.Extensions.xml
